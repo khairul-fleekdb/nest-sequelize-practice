@@ -38,6 +38,7 @@ $ npm run test:cov
 ```bash
 #install
 npm install --save @nestjs/sequelize sequelize sequelize-typescript
+
 #install type
 npm install --save-dev @types/sequelize
 ```
